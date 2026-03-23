@@ -5,7 +5,7 @@ This repo is a test using cookiecutter template.
 
 
 Author information:
-Renan <r.shimoura@fz-juelich.de>
+Renan <emiliano.buttarazzi@unipv.it>
 
 ![FZ_Jülich_Icon_RGB_Forschungsbereich_Information](https://user-images.githubusercontent.com/92092328/197242118-8153e846-3291-47e3-9096-3c3f22fafe89.png)
 
@@ -123,7 +123,7 @@ Please make sure to update tests as appropriate.
 Describe how to get in touch in case of questions or issues.
 
 Contact:
-r.shimoura@fz-juelich.de
+emiliano.buttarazzi@unipv.it
 
 ## Acknowledgments
 Put in acknowledgments.
